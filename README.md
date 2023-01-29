@@ -20,10 +20,10 @@
 For example: `c // (x + 1)`, which means: color divided by x coordinate plus 1 (preventing from division error)
 
 ### Before:
-[Before](preview.png "Before")
+<img src="preview.png" alt="before" width="150" height="200"/>
 
 ### After:
-[After](after.png "After")
+<img src="after.png" alt="after" width="150" height="200"/>
 
 ---
 
